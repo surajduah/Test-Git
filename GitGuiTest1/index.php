@@ -1,1 +1,1 @@
-<?php// DB connection file need to be added here?>
+<?php// DB connection file need to be added here//verify the DB connection?>
